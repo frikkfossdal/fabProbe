@@ -8,7 +8,7 @@ Here is a gif of the kinematic coupling priciple. The top-side is held in place 
 
 ![](img/principle.gif)
 
-## 22.03.2022 
+## 2203_2022 
 
 Starting logging quite late in the process. I'll add documentation of what I actually have done later but right now I'm focusing on debugging. I have a circuit and its not working. I'm suspecting that there is something wrong in the design around the NPN transistor. FOUND IT! The footprint of the transistor is flipped in terms of the transistor I actually bought. I hacked a quick solution by soldering the transistors to the circuit on their heads. What did we learn here: never blindly trust footprints that you find online and ALWAYS READ THE DATASHEET of the parts you are using. 
 
