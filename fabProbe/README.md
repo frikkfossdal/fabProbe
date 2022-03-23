@@ -1,12 +1,19 @@
 # Fab Touchprobe 
 
-Documenting sparsely. Main goal of this project is to make a fabricatable touch probe that I can use to probe stuff on my clank. The philosophy driving the design lies in it's circuitry. I have a circular pattern of steel balls serving as contact points for 3 dowels. The circuit breaks if one of the dowels looses contact with the steel-ball-circuit. Rough sketch below. 
+## What is it
 
-![](img/sketch.jpeg)
+A fabrication friendly design of a 3-DOF touch probe. At the heart of the design is a circuit board with a kinematic coupling where each contact point is wired in series. If the contact breaks the circuits output signal will go high. 
 
-Here is a gif of the kinematic coupling priciple. The top-side is held in place by the magnets. If the probe touches something, the kinematic coupling will loose contact with one of the ball-couplings and break the circuit. 
+## How to use it
+- more soon 
 
-![](img/principle.gif)
+## How to make it
+
+The repo contains all the files that are necassary to print the parts and make the circuit. There are currently two circuit designs: one that is pcb mill friendly and one that is meant for fabrication houses. I'm using the latter. 
+
+
+# Log
+
 
 ## 22.03.2022 
 
@@ -16,5 +23,10 @@ Starting logging quite late in the process. I'll add documentation of what I act
 
 I'll hopefully come back later this week and test the circuit on the duet. 
 
+## Old log stuff - delete? 
 
+![](img/sketch.jpeg)
 
+Here is a gif of the kinematic coupling priciple. The top-side is held in place by the magnets. If the probe touches something, the kinematic coupling will loose contact with one of the ball-couplings and break the circuit. 
+
+![](img/principle.gif)
