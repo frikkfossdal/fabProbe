@@ -5,7 +5,7 @@
 
 ## What is it
 
-A fabrication friendly design of a 3-DOF touch probe. At the heart of the design is a circuit board that lights up leds on probe contact. 
+A fabrication friendly design of a 3-DOF touch probe. At the heart of the design is a circuit board that lights up leds on probe contact. Probe is designed to be attached on [Jake Read's hotplate system](https://clank.tools/build/hotplate/index.html). 
 
 ## How to use it
 
