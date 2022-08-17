@@ -1,11 +1,18 @@
+---
+type: project
+title: Fabricatable Touch Probe
+entryDate: 17/05/2022
+subtitle: Design and documentation of fabricatable touch probe. Designed to be mounted on the HotPlate toolchange system. 
+---
+
 # Fab Touchprobe 
 *By Frikk H Fossdal, May 2022*
 
-![](./img/hotplate_probe.gif)
+![](img/hotplate_probe.gif)
 
 ## What is it
 
-A fabrication friendly design of a 3-DOF touch probe. At the heart of the design is a circuit board that lights up leds on probe contact. 
+A fabrication friendly design of a 3-DOF touch probe. At the heart of the design is a circuit board that lights up leds on probe contact. Probe is designed to be attached on [Jake Read's hotplate system](https://clank.tools/build/hotplate/index.html). 
 
 ## How to use it
 
@@ -20,6 +27,7 @@ The repo contains all the files that are necassary to print the parts and make t
 - Originally the probe uses [threaded steel-balls]() and dowels to form the kinematic mount but this could be modified to only use screws and dowels for easier sourcing.
 - I print the probe casing with two different filaments, one transparent for making the circuit leds visible and one solid gray. If you rather print the casing as one solid merge the two casing bodies. 
 - If you want to use a different probing stylus change the "nut diameter" of the nut on the *probe base* to fit your chosen diameter. 
+
 
 ## BOM
 
