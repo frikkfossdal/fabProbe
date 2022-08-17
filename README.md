@@ -35,8 +35,6 @@ The repo contains all the files that are necassary to print the parts and make t
 ## Develop notes 
 
 - After discussing with Jake we agreed that the design of the probe needs to be modified with some way of offsetting the centering of the probe. Revision will follow in near future. 
-- Spring force matters. I have to do more research to find good sensitivity.
-
-<iframe src="https://myhub.autodesk360.com/ue29e30e9/shares/public/SH9285eQTcf875d3c539d67aaeaef3a23b4d?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-
+- [Here](https://www.youtube.com/watch?v=ZvX3S8Ky3Ok) is a video showing how centering is done on a renishaw probe.
+- [Instructable](https://www.instructables.com/CNC-Touch-Probe-Calibration/) on calibrating probe using gcode.
+- Spring force matters. I have to do more testing to find good sensitivity.
