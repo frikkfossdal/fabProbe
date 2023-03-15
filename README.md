@@ -15,11 +15,11 @@ The probe acts as a digital switch. Connect it to your favorite machine controll
 
 ## How to make it
 
-The repo contains all the files that are necassary to print the parts and make the circuit. There are currently two circuit designs: one that is pcb mill friendly and one that is meant for fabrication houses. I'm using the latter. Some notes: 
+The repo contains all the files that are necassary to print the parts and make the circuit. There are currently two circuit designs: one that is pcb mill friendly (not tested!) and one circuit design meant for fabrication houses. I'm using the latter. Some notes: 
 
 - Originally the probe uses [threaded steel-balls]() and dowels to form the kinematic mount but this could be modified to only use screws and dowels for easier sourcing.
 - I print the probe casing with two different filaments, one transparent for making the circuit leds visible and one solid gray. If you rather print the casing as one solid merge the two casing bodies. 
-- If you want to use a different probing stylus change the "nut diameter" of the nut on the *probe base* to fit your chosen diameter. 
+- If you want to use a different probing stylus change the "nut diameter" of the nut on the *probe base* (see fusion model) to fit your chosen diameter. 
 
 
 ## BOM
