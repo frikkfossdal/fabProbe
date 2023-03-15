@@ -1,12 +1,5 @@
----
-type: project
-title: Fabricatable Touch Probe
-entryDate: 17/05/2022
-subtitle: Design and documentation of fabricatable touch probe. Designed to be mounted on the HotPlate toolchange system. 
----
-
 # Fab Touchprobe 
-*By Frikk H Fossdal, May 2022*
+
 
 ![](img/hotplate_probe.gif)
 
